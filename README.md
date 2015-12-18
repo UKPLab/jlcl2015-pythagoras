@@ -16,7 +16,6 @@ How to cite
 When using this project, please cite it as:
 
 > Flekova, Lucie and Sousa, Tahir and Mieskes, Margot and Gurevych, Iryna. (2015). **Document-level discourse-pragmatic classification of German school lesson transcripts**. In  Journal for Language Technology and Computational Linguistics (to appear).
-[(pdf)](http://www.jlcl.org/) [(bib)](http://my.bib.link)
 
 
 Contact/Maintainers

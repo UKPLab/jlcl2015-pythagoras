@@ -20,7 +20,7 @@ Please use the following citation:
 Contact people: 
 
 * Tahir Sousa, tahirsousa at gmail
-* Lucie Flekova, lastname@ukp.informatik.tu-darmstadt.de
+* Lucie Flekova, flekova@ukp.informatik.tu-darmstadt.de
 
 http://www.ukp.tu-darmstadt.de/
 

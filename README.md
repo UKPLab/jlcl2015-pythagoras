@@ -55,5 +55,5 @@ To obtain the German lexicons used in particular feature extractors please conta
 
 To obtain the data used for the experiment, please refer to https://www.ukp.tu-darmstadt.de/data/quality-assessment/school-lesson-quality/ 
 
-For detailed description on how to use DKPro TC projects (setup, running, interpreting the results), please refer to the User Guide in the documentation section of the DKPro TC Website (https://dkpro.github.io/dkpro-tc <https://dkpro.github.io/dkpro-tc/>)
+For detailed description on how to use DKPro TC projects (setup, running, interpreting the results), please refer to the User Guide in the documentation section of the DKPro TC Website (https://dkpro.github.io/dkpro-tc)
 

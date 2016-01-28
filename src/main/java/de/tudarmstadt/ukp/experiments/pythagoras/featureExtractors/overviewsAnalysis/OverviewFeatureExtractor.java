@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.overviewsAnalysis;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.overviewsAnalysis;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -10,7 +10,7 @@ import java.util.List;
 
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.PythagorasJavaExperiment;
+import de.tudarmstadt.ukp.experiments.pythagoras.PythagorasJavaExperiment;
 import de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.Feature;

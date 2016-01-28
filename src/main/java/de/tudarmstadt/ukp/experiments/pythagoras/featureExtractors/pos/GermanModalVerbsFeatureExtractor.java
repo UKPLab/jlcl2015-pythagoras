@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.pos;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.pos;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,7 +13,7 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceSpecifier;
 
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.V;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.ClassificationUnitFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

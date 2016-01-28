@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.preprocessing;
+package de.tudarmstadt.ukp.experiments.pythagoras.preprocessing;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package pythagoras.featureExtractorUtils;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils;
 
 import static org.apache.uima.fit.util.JCasUtil.select;
 import static org.apache.uima.fit.util.JCasUtil.selectCovered;
@@ -18,7 +18,7 @@ import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 import org.apache.uima.jcas.tcas.Annotation;
 
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.frequency.util.FrequencyDistribution;
 import de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;

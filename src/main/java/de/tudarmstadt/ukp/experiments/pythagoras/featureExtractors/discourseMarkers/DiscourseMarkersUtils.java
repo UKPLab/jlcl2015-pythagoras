@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.discourseMarkers;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.discourseMarkers;
 
 import java.io.File;
 import java.io.IOException;

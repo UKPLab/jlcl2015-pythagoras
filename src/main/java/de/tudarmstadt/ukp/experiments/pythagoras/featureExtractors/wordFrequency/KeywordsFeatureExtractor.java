@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.wordFrequency;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.wordFrequency;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceSpecifier;
 
-import pythagoras.featureExtractorUtils.NGramUtils;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NGramUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.CARD;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

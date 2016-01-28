@@ -1,4 +1,4 @@
-package pythagoras;
+package de.tudarmstadt.ukp.experiments.pythagoras;
 
 import static org.apache.uima.fit.factory.AnalysisEngineFactory.createEngineDescription;
 import static org.apache.uima.fit.factory.CollectionReaderFactory.createReaderDescription;
@@ -7,7 +7,7 @@ import org.apache.uima.analysis_engine.AnalysisEngineDescription;
 import org.apache.uima.collection.CollectionReaderDescription;
 import org.apache.uima.fit.pipeline.SimplePipeline;
 
-import pythagoras.io.PythagorasCorpusReader;
+import de.tudarmstadt.ukp.experiments.pythagoras.io.PythagorasCorpusReader;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma;
 import de.tudarmstadt.ukp.dkpro.core.frequency.tfidf.TfidfConsumer;
 import de.tudarmstadt.ukp.dkpro.core.frequency.tfidf.model.DfModel;

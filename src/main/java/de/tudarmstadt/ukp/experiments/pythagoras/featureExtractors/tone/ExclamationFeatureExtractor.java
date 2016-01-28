@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.tone;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tone;
 
 import java.util.Arrays;
 import java.util.List;

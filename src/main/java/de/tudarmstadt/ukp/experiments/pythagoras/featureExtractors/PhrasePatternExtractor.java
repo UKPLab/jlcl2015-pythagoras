@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.List;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;
 import de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.ADJC;
 import de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk;

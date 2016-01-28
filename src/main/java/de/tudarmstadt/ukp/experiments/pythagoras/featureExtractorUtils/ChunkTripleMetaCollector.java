@@ -1,4 +1,4 @@
-package pythagoras.featureExtractorUtils;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,8 +19,8 @@ import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 
-import pythagoras.featureExtractors.tripleWord.ChunkTripleFeatureExtractor;
-import pythagoras.featureExtractors.tripleWord.T_ChunkTripleFeatureExtractor;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tripleWord.ChunkTripleFeatureExtractor;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tripleWord.T_ChunkTripleFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.core.api.resources.ResourceUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma;
 import de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk;

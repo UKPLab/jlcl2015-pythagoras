@@ -1,4 +1,4 @@
-package pythagoras.errorAnalysis;
+package de.tudarmstadt.ukp.experiments.pythagoras.errorAnalysis;
 
 import java.io.File;
 import java.io.IOException;

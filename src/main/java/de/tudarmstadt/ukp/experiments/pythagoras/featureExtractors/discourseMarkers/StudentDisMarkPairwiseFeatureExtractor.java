@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.discourseMarkers;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.discourseMarkers;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,7 +15,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.StudentTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.StudentTranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.Feature;

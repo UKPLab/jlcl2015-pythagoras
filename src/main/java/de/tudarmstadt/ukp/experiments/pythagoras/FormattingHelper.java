@@ -1,4 +1,4 @@
-package pythagoras;
+package de.tudarmstadt.ukp.experiments.pythagoras;
 
 import java.io.*;
 import java.util.ArrayList;

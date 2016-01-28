@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.wordFrequency;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.wordFrequency;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,9 +9,9 @@ import java.util.List;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.StudentTranscribedText;
-import pythagoras.annotations.TeacherTranscribedText;
-import pythagoras.featureExtractorUtils.NGramUtils;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.StudentTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TeacherTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NGramUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

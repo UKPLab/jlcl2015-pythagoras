@@ -1,7 +1,7 @@
 
 
 /* First created by JCasGen Sun Jun 09 15:37:15 CEST 2013 */
-package pythagoras.annotations;
+package de.tudarmstadt.ukp.experiments.pythagoras.annotations;
 
 import org.apache.uima.jcas.JCas; 
 import org.apache.uima.jcas.JCasRegistry;

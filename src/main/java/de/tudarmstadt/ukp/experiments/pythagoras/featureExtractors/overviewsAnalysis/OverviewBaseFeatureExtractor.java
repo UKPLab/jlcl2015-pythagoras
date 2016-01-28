@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.overviewsAnalysis;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.overviewsAnalysis;
 
 import java.io.File;
 import java.io.IOException;

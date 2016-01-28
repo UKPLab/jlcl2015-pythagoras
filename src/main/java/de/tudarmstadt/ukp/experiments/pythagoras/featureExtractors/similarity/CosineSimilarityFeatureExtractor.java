@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.similarity;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.similarity;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,9 +10,9 @@ import org.apache.uima.fit.descriptor.ConfigurationParameter;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.StudentTranscribedText;
-import pythagoras.annotations.TeacherTranscribedText;
-import pythagoras.featureExtractorUtils.NGramUtils;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.StudentTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TeacherTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NGramUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

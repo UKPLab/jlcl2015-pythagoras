@@ -1,4 +1,4 @@
-package pythagoras.featureExtractorUtils;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import org.apache.uima.fit.descriptor.ConfigurationParameter;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.featureExtractors.tone.TeacherDictionaryFeatureExtractor;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tone.TeacherDictionaryFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;
 
 /**

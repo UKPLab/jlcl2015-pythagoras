@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.phonetics;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.phonetics;
 
 /**
  * Counts the phonemes present in the different phonetic groups and performs various statistics on them.

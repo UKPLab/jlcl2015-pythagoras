@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.tripleWord;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tripleWord;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,7 +17,7 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceSpecifier;
 
-import pythagoras.featureExtractorUtils.ChunkTripleMetaCollector;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.ChunkTripleMetaCollector;
 import de.tudarmstadt.ukp.dkpro.core.api.frequency.util.FrequencyDistribution;
 import de.tudarmstadt.ukp.dkpro.core.api.resources.ResourceUtils;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

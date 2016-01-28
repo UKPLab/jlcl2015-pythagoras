@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.preprocessing;
+package de.tudarmstadt.ukp.experiments.pythagoras.preprocessing;
 
 import java.awt.Toolkit;
 import java.io.BufferedWriter;

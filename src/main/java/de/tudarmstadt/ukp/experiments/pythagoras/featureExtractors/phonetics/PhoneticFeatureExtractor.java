@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.phonetics;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.phonetics;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -10,8 +10,8 @@ import java.util.List;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.TeacherTranscribedText;
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TeacherTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Document;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

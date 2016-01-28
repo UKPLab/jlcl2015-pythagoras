@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.polarity;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.polarity;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -18,7 +18,7 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceSpecifier;
 
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData;
 import de.tudarmstadt.ukp.dkpro.core.api.resources.ResourceUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;

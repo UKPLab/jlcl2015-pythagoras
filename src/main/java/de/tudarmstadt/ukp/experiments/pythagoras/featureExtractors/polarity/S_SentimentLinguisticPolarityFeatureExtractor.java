@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.polarity;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.polarity;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,7 @@ import java.util.List;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.StudentTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.StudentTranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;

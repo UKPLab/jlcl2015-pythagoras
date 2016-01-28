@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.pos;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.pos;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,9 +16,9 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceSpecifier;
 
-import pythagoras.annotations.TranscribedText;
-import pythagoras.featureExtractorUtils.NGramUtils;
-import pythagoras.featureExtractorUtils.NounsMetaCollector;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NGramUtils;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NounsMetaCollector;
 import de.tudarmstadt.ukp.dkpro.core.api.frequency.util.FrequencyDistribution;
 import de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.NN;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;

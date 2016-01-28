@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors;
 
 import java.util.Arrays;
 import java.util.HashSet;

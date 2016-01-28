@@ -1,4 +1,4 @@
-package pythagoras.preprocessing;
+package de.tudarmstadt.ukp.experiments.pythagoras.preprocessing;
 
 import java.io.BufferedWriter;
 import java.io.File;

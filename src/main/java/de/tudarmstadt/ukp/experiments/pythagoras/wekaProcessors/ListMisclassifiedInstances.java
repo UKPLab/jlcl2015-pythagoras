@@ -1,4 +1,4 @@
-package pythagoras.wekaProcessors;
+package de.tudarmstadt.ukp.experiments.pythagoras.wekaProcessors;
 
 
 import java.io.BufferedReader;

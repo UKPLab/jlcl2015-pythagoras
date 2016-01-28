@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.wekaProcessors;
+package de.tudarmstadt.ukp.experiments.pythagoras.wekaProcessors;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -16,7 +16,7 @@ import java.util.TreeSet;
 
 import org.apache.commons.io.FileUtils;
 
-import pythagoras.wekaProcessors.ListMisclassifiedInstances.EXPERIMENTSETUP;
+import de.tudarmstadt.ukp.experiments.pythagoras.wekaProcessors.ListMisclassifiedInstances.EXPERIMENTSETUP;
 import weka.core.Instances;
 
 /**

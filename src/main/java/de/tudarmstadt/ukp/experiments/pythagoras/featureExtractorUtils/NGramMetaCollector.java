@@ -1,4 +1,4 @@
-package pythagoras.featureExtractorUtils;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,8 +12,8 @@ import org.apache.uima.fit.descriptor.ConfigurationParameter;
 import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 
-import pythagoras.featureExtractors.wordFrequency.NGramFeatureExtractor;
-import pythagoras.featureExtractors.wordFrequency.T_NGramFeatureExtractor;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.wordFrequency.NGramFeatureExtractor;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.wordFrequency.T_NGramFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.core.api.frequency.util.FrequencyDistribution;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.util.FeatureUtil;
 

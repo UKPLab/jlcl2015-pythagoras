@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.wordFrequency;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.wordFrequency;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.util.List;
 import org.apache.commons.io.FileUtils;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.featureExtractorUtils.NGramUtils;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NGramUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.Feature;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.overviewsAnalysis;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.overviewsAnalysis;
 
 import java.util.ArrayList;
 import java.util.Collection;

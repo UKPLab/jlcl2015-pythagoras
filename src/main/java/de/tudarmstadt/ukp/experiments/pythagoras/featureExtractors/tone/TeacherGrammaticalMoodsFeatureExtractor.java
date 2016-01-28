@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.tone;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tone;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,8 +15,8 @@ import de.tudarmstadt.ukp.dkpro.tc.api.features.DocumentFeatureExtractor;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.Feature;
 import de.tudarmstadt.ukp.dkpro.tc.api.features.FeatureExtractorResource_ImplBase;
 import de.tudarmstadt.ukp.dkpro.tc.exception.TextClassificationException;
-import pythagoras.annotations.TranscribedText;
-import pythagoras.featureExtractors.tone.TeacherDictionaryFeatureExtractor;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.tone.TeacherDictionaryFeatureExtractor;
 
 /**
  * In German, there are 3 grammatical moods: Indicative, Subjunctive (Konjunctiv) and Imperative.

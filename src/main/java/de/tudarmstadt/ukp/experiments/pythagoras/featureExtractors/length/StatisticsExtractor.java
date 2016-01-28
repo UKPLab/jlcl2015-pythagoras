@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.length;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.length;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -12,9 +12,9 @@ import java.util.List;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.StudentTranscribedText;
-import pythagoras.annotations.TeacherTranscribedText;
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.StudentTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TeacherTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 import de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token;

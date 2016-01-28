@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.audioPrelims;
+package de.tudarmstadt.ukp.experiments.pythagoras.audioPrelims;
 
 import java.io.BufferedWriter;
 import java.io.File;

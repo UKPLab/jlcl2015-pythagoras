@@ -1,4 +1,4 @@
-package pythagoras.annotations;
+package de.tudarmstadt.ukp.experiments.pythagoras.annotations;
 
 import org.apache.uima.jcas.JCas; 
 import org.apache.uima.jcas.JCasRegistry;

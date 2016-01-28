@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.phonetics;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.phonetics;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -31,7 +31,7 @@ import org.w3c.dom.NodeList;
 import org.apache.commons.io.FileUtils;
 
 import de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData;
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 
 /**
  * XML parser that extracts important parts of the phoneticized transcripts created by Mary TTS.

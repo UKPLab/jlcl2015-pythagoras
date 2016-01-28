@@ -1,4 +1,4 @@
-package pythagoras.featureExtractors.length;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.length;
 
 /*Instead of looping on every dialogue, take the size of full Token.class and exclude punctuation.
  * Then use these values for other Feature extractors.
@@ -12,8 +12,8 @@ import org.apache.uima.fit.descriptor.TypeCapability;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
-import pythagoras.annotations.TranscribedText;
-import pythagoras.featureExtractorUtils.NGramUtils;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.NGramUtils;
 import de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.CARD;
 import de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.N;
 import de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence;

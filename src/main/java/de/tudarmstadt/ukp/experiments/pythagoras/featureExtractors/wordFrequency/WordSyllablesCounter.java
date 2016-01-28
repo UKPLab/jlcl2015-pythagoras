@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pythagoras.featureExtractors.wordFrequency;
+package de.tudarmstadt.ukp.experiments.pythagoras.featureExtractors.wordFrequency;
 /*******************************************************************************
  * Copyright 2013
  * Ubiquitous Knowledge Processing (UKP) Lab

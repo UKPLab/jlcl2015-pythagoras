@@ -1,7 +1,7 @@
-package pythagoras.lexicalSemanticResourceBased;
+package de.tudarmstadt.ukp.experiments.pythagoras.lexicalSemanticResourceBased;
 //This class still needs to be developed.
 
-/*package pythagoras.germanet;
+/*package de.tudarmstadt.ukp.experiments.pythagoras.germanet;
 
 import java.io.File;
 import java.io.IOException;

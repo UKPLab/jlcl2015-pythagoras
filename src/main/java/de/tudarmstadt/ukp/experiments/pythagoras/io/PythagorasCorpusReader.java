@@ -1,4 +1,4 @@
-package pythagoras.io;
+package de.tudarmstadt.ukp.experiments.pythagoras.io;
 
 import java.io.File;
 import java.io.IOException;
@@ -31,14 +31,14 @@ import org.apache.uima.fit.descriptor.ConfigurationParameter;
 import org.apache.uima.fit.descriptor.TypeCapability;
 import org.uimafit.util.JCasUtil;
 
-import pythagoras.PythagorasJavaExperiment;
-import pythagoras.annotations.StudentTranscribedText;
-import pythagoras.annotations.TeacherTranscribedText;
-import pythagoras.annotations.TranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.PythagorasJavaExperiment;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.StudentTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TeacherTranscribedText;
+import de.tudarmstadt.ukp.experiments.pythagoras.annotations.TranscribedText;
 
 
 
-import pythagoras.featureExtractorUtils.ngramLogger;
+import de.tudarmstadt.ukp.experiments.pythagoras.featureExtractorUtils.ngramLogger;
 import de.tudarmstadt.ukp.dkpro.core.api.io.ResourceCollectionReaderBase;
 
 /**
